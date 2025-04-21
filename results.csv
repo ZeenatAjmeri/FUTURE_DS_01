@@ -1,0 +1,51 @@
+Tweet,User,Date,Likes,Retweets,Location,Sentiment,Engagement
+Data science is transforming healthcare! 🏥,DataFan123,2024-03-01,250,45,New York,Positive,295
+Struggling with Python loops...,CodeNewbie,2024-03-02,80,5,London,Negative,85
+Power BI dashboards are game-changers!,AnalyticsPro,2024-03-03,400,78,Berlin,Positive,478
+AI ethics needs urgent attention.,EthicsMatters,2024-03-04,150,20,Paris,Neutral,170
+Just built my first ML model! 🚀,MLJourney,2024-03-05,300,56,San Francisco,Positive,356
+Just learned SQL today! Feeling accomplished.,SQLNewbie,2024-03-06,120,15,Tokyo,Positive,135
+Machine learning is overwhelming for beginners.,MLStruggles,2024-03-07,60,8,Mumbai,Negative,68
+Data visualization tools are a lifesaver!,VizMaster,2024-03-08,320,50,Sydney,Positive,370
+AI bias is a real problem.,EthicsInTech,2024-03-09,90,12,Toronto,Neutral,102
+Finally finished my data cleaning project! 🧹,CleanDataGuy,2024-03-10,180,25,Dubai,Positive,205
+Python libraries are confusing.,PyNoob,2024-03-11,45,3,Singapore,Negative,48
+Big data is the future!,BigDataFan,2024-03-12,280,40,Berlin,Positive,320
+Data privacy laws need more awareness.,PrivacyFirst,2024-03-13,75,10,Paris,Neutral,85
+Just got certified in Power BI! 🎉,BIAnalyst,2024-03-14,220,35,London,Positive,255
+Stuck with regression models...,StatsGuy,2024-03-15,55,7,New York,Negative,62
+Data storytelling is an art!,StorytellerDS,2024-03-16,150,22,San Francisco,Positive,172
+AI replacing jobs is scary.,JobWorries,2024-03-17,85,9,Mumbai,Negative,94
+Love working with Jupyter notebooks!,JupyterFan,2024-03-18,300,55,Tokyo,Positive,355
+Missing data is ruining my analysis.,MissingDataProbs,2024-03-19,40,2,Sydney,Negative,42
+Predictive analytics is fascinating!,PredictivePro,2024-03-20,260,38,Dubai,Positive,298
+Data science internships are super competitive.,InternSeeker,2024-03-21,95,14,Toronto,Neutral,109
+Mastered pivot tables in Excel! 🎯,ExcelMaster,2024-03-22,200,30,Singapore,Positive,230
+Overfitting in ML is frustrating.,MLNoob,2024-03-23,50,6,Berlin,Negative,56
+Natural Language Processing is mind-blowing!,NLPGeek,2024-03-24,340,60,Paris,Positive,400
+Data ethics should be a core subject.,EthicsAdvocate,2024-03-25,110,18,London,Neutral,128
+Just automated my first task with Python! 🤖,AutomationFan,2024-03-26,240,42,New York,Positive,282
+Confused about neural networks.,NNNewbie,2024-03-27,65,11,San Francisco,Negative,76
+Data-driven decisions are changing my company!,BusinessAnalyst,2024-03-28,290,47,Mumbai,Positive,337
+Too many tools to learn...,ToolFatigue,2024-03-29,70,8,Tokyo,Negative,78
+Cluster analysis gave me great insights!,ClusterMaster,2024-03-30,180,25,Sydney,Positive,205
+AI hype vs reality is disappointing.,AISkeptic,2024-03-31,80,13,Dubai,Neutral,93
+Created my first Tableau dashboard! 📊,TableauPro,2024-04-01,210,33,Toronto,Positive,243
+Struggling with Git commands.,GitNoob,2024-04-02,35,4,Singapore,Negative,39
+Data science communities are so helpful!,CommunityFan,2024-04-03,160,28,Berlin,Positive,188
+Data labeling is tedious.,LabelingSucks,2024-04-04,55,7,Paris,Negative,62
+Time series analysis is powerful!,TimeSeriesGeek,2024-04-05,270,45,London,Positive,315
+AI in healthcare needs more regulation.,HealthTechEthics,2024-04-06,100,16,New York,Neutral,116
+Just won a Kaggle competition! 🏆,KaggleChamp,2024-04-07,380,65,San Francisco,Positive,445
+Feature engineering is confusing.,FeatureNoob,2024-04-08,45,5,Mumbai,Negative,50
+Open-source tools are amazing!,OpenSourceFan,2024-04-09,190,29,Tokyo,Positive,219
+Data science burnout is real.,BurnoutStruggles,2024-04-10,75,10,Sydney,Negative,85
+Deep learning is the future!,DLEnthusiast,2024-04-11,310,50,Dubai,Positive,360
+Data governance is underrated.,GovernanceGuru,2024-04-12,120,20,Toronto,Neutral,140
+Visualized global trends with Power BI! 🌍,GlobalAnalyst,2024-04-13,250,40,Singapore,Positive,290
+Debugging takes 90% of my time.,DebuggingHell,2024-04-14,60,9,Berlin,Negative,69
+Data science mentorship changed my career!,MenteeSuccess,2024-04-15,170,26,Paris,Positive,196
+AI in education has pros and cons.,EdTechDebate,2024-04-16,85,12,London,Neutral,97
+Automated report generation saves hours! ⏰,ReportGenius,2024-04-17,230,35,New York,Positive,265
+Confidence intervals are tricky.,StatsStruggles,2024-04-18,50,6,San Francisco,Negative,56
+Data science freelancing is booming!,FreelanceDS,2024-04-19,200,30,Mumbai,Positive,230
